@@ -39,7 +39,7 @@ He organizado y sintetizado todos los requerimientos del documento en esta lista
 -   **RF15: Cálculo de Factura:** Calcular total (subtotal + IVA - descuentos + envío).
 -   **RF16: Gestión de Envío/Recogida:**
     -   Opción 1: Recoger en sitio (permite usar geolocalización para ver si está cerca del vendedor/un punto de entrega).
-    -   Opción 2: Envío a domicilio (suma $5,000 COP al total).
+    -   Opción 2: Envío a domicilio
 -   **RF17: Historial de Compras (Comprador):** Ver productos comprados y opción a "recomprar".
 -   **RF18: Historial de Ventas (Vendedor):** Ver productos vendidos e ingresos.
 
